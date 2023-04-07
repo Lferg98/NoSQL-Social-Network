@@ -1,7 +1,7 @@
 const { User, Thought } = require (',,/models');
 
 const userController = {
-    // get all 
+    // get all
     getAllUser(req, res) {
         User.find()
         .select('-__v')
