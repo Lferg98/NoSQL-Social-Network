@@ -6,7 +6,7 @@ Module 18 Homework @ Monash Uni Coding Bootcamp.
 
 - [Description](#description)
 - [Installation](#installation)
-- [Technologies](#technolgoies)
+- [Technologies](#technologies)
 - [Packages](#packages)
 - [Screenshot](#screenshot)
 - [Walkthrough](#walkthrough)
