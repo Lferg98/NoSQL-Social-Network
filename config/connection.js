@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 mongoose.set('strictQuery',false);
 
-mongoose.connect('mongodb://localhost:27017/', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/NoSQL-Social-Network', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
