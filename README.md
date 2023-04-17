@@ -33,6 +33,9 @@ After installing use `npm start`
 
 ## Walkthrough
 
+![image](https://user-images.githubusercontent.com/114797368/232420463-edaeb887-eb0d-4545-a44f-73a5b1cd2764.png)
+
+
 ## Questions
 
 Please contact me on the below if you have any questions:
