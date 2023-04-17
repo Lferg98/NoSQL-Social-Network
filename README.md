@@ -7,21 +7,35 @@ Module 18 Homework @ Monash Uni Coding Bootcamp.
 - [Description](#description)
 - [Installation](#installation)
 - [Technologies](#technologies)
-- [Packages](#packages)
 - [Screenshot](#screenshot)
 - [Walkthrough](#walkthrough)
 - [Questions](#questions)
 
 ## Description
 
+This is a API application for a social network app. Users can share and react to friend's thoughts and create a friend list.
+
 ## Installation
+
+To start this project install it using the `npm install` command.
+
+After installing use `npm start`
 
 ## Technologies
 
-## Packages 
+- JavaScript
+- Node.js
+- Express.js
+- MongoDb
+- Mongoose
 
 ## Screenshot
 
 ## Walkthrough
 
 ## Questions
+
+Please contact me on the below if you have any questions:
+
+Lachieferg98@hotmail.com 
+https://github.com/Lferg98
